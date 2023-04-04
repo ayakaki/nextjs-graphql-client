@@ -1,4 +1,4 @@
-import client from "@/utils/apollo-client";
+import client from "@/utils/apolloClient";
 import { gql } from "@apollo/client";
 import { useEffect, useState } from "react";
 
